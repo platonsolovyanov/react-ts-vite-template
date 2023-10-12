@@ -35,3 +35,5 @@ folder structure:
 
 root dir:
 - jsonconfig.json
+
+[https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md](snippets list)
